@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+tfenv/
+.venv/
+env/
+
+# backend env folders
+ocular-backend/venv/
+ocular-backend/tfenv/
+ocular_backend/venv/
+ocular_backend/tfenv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Android / IDE
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# OS files
+Thumbs.db
+.DS_Store
